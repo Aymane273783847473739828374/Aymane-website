@@ -1,0 +1,33 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+    background-color: #fdfdfd;
+    color: #333;
+}
+h1, h2 {
+    color: #9b4d0b;
+    font-family: 'Georgia', serif;
+}
+hr {
+    border: none;
+    height: 2px;
+    background-color: #ccc;
+    margin: 10px 0;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+ul, ol {
+    margin-left: 20px;
+}
+div {
+    background: #f8f8f8;
+    padding: 10px;
+    margin-top: 10px;
+    border-left: 4px solid #ccc;
+}
